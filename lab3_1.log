@@ -1,0 +1,21 @@
+Circuit: * Question 1
+
+Per .tran options, skipping operating point for transient analysis.
+
+Date: Fri Sep 01 10:45:34 2017
+Total elapsed time: 0.078 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2174
+traniter = 2174
+tranpoints = 1088
+accept = 1088
+rejected = 0
+matrix size = 3
+fillins = 0
+solver = Normal
+Matrix Compiler1: off  [0.0]/0.1/0.1
+Matrix Compiler2: off  [0.0]/0.1/0.0
+

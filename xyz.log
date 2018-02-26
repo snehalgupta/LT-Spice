@@ -1,0 +1,20 @@
+Circuit: * circuit2
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Aug 17 01:37:07 2017
+Total elapsed time: 0.456 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 3
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 7
+fillins = 2
+solver = Normal
+Matrix Compiler1: 268 bytes object code size
+Matrix Compiler2: 501 bytes object code size

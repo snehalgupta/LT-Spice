@@ -1,0 +1,32 @@
+Circuit: *question 2
+
+.OP point found by inspection.
+.step rload=1
+.step rload=11
+.step rload=21
+.step rload=31
+.step rload=41
+.step rload=51
+.step rload=61
+.step rload=71
+.step rload=81
+.step rload=91
+.step rload=100
+
+Date: Wed Sep 20 14:12:09 2017
+Total elapsed time: 1.178 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2160
+traniter = 2160
+tranpoints = 1081
+accept = 1079
+rejected = 2
+matrix size = 4
+fillins = 0
+solver = Normal
+Matrix Compiler1: 100 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: off  [0.2]/0.2/0.2
+
